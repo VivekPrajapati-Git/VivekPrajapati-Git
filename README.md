@@ -1,14 +1,17 @@
-- 👋 Hi, I’m @VivekPrajapati-Git
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Vivek Prajapati
 
-<!---
-VivekPrajapati-Git/VivekPrajapati-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Hi Myself Vivek Prajapati
-I am currently learning and working on web development. 
+I’m a Bachelor’s student with a strong passion for Artificial Intelligence and Machine Learning. I enjoy building AI-powered applications and web-based projects that solve real-world problems. I’m always excited to explore new technologies and turn ideas into working systems.
+
+Currently, I am learning PyTorch to deepen my understanding of machine learning and deep learning, and I am also preparing to move toward DevOps so I can build, deploy, and scale intelligent applications in cloud environments.
+
+I enjoy working on:
+
+🤖 AI & Machine Learning projects
+
+🌐 Web development and backend systems
+
+🛠️ Open-source and collaborative coding
+
+🚀 Building complete, production-ready solutions
+
+My goal is to become a developer who can not only build powerful AI models, but also deploy, manage, and scale them in real-world systems. I love learning, experimenting, and contributing to projects that make an impact.
